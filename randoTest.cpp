@@ -28,3 +28,35 @@ TEST(RandoTest, allChildrenSmile)
 	Rando rando;
 	ASSERT_TRUE( rando.shouldWorry(true,true,true) );
 }
+
+TEST(RandoTest, divisibleByEvenly)
+{
+	Rando rando;
+	ASSERT_TRUE(rando.isDivisibleBy(4, 2));
+}
+
+TEST(RandoTest, divisibleByZero)
+{
+	Rando rando;
+	ASSERT_TRUE(rando.isDivisibleBy(0, 2));
+}
+
+TEST(RandoTest, divisibleByUneven)
+{
+	Rando rando;
+	ASSERT_FALSE(rando.isDivisibleBy(7, 2));
+}
+
+TEST(RandoTest, divisibleByNegFirst)
+{
+	Rando rando;
+	ASSERT_FALSE(rando.isDivisibleBy(-9, 2));
+	ASSERT_TRUE(rando.isDivisibleBy(-8, 2));
+}
+
+TEST(RandoTest, divisibleByNegSecond)
+{
+	Rando rando;
+	ASSERT_FALSE(rando.isDivisibleBy(19, -3));
+	ASSERT_TRUE(rando.isDivisibleBy(12, -3));
+}
