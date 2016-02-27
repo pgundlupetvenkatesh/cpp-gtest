@@ -71,7 +71,7 @@ TEST(RandoTest, isPrimeEven)
 {
 	Rando rando;
 	ASSERT_FALSE(rando.isPrime(4));
-	ASSERT_TRUE(rando.isPrime(2));
+	ASSERT_FALSE(rando.isPrime(2));
 }
 
 TEST(RandoTest, isPrimeOdd)
