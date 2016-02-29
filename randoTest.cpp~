@@ -71,7 +71,7 @@ TEST(RandoTest, isPrimeEven)
 {
 	Rando rando;
 	ASSERT_FALSE(rando.isPrime(4));
-	ASSERT_FALSE(rando.isPrime(2));
+	ASSERT_TRUE(rando.isPrime(2));
 }
 
 TEST(RandoTest, isPrimeOdd)
@@ -91,4 +91,10 @@ TEST(RandoTest, isPrime0_1)
 	Rando rando;
 	ASSERT_FALSE(rando.isPrime(0));
 	ASSERT_FALSE(rando.isPrime(1));
+}
+
+TEST(RandoTest, nearToZero)
+{
+	Rando rando;
+	ASSERT_EQ(4, rando.nearestToZero(2, 4));
 }

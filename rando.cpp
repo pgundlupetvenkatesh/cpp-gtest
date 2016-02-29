@@ -1,6 +1,10 @@
 #include "rando.h"
 #include <stdlib.h>
 #include <math.h>
+#include <vector>
+#include <algorithm>
+
+using namespace std;
 
 
 /**
@@ -56,5 +60,16 @@ bool Rando::isPrime(int num)
 **/
 int Rando::nearestToZero(int a, int b)
 {
+	if((a || b) == 0) {
+		return 1;
+	} else if(a == b) {
+		return 1;
+	} else {
+		vector<int> vect;
+		vect.push_back(a);
+		vect.push_back(b);
+		sort(vect.begin(), vect.end());
+		return vect.front();
+	}	
 	return 0;
 }

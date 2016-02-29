@@ -92,3 +92,9 @@ TEST(RandoTest, isPrime0_1)
 	ASSERT_FALSE(rando.isPrime(0));
 	ASSERT_FALSE(rando.isPrime(1));
 }
+
+TEST(RandoTest, nearToZero)
+{
+	Rando rando;
+	ASSERT_EQ(2, rando.nearestToZero(2, 4));
+}
