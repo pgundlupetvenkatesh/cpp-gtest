@@ -1,0 +1,364 @@
+Function '_ZNSt11__copy_moveILb0ELb1ESt26random_access_iterator_tagE8__copy_mIiEEPT_PKS3_S6_S4_'
+Lines executed:100.00% of 5
+
+Function '_ZNK9__gnu_cxx5__ops14_Iter_less_valclINS_17__normal_iteratorIPiSt6vectorIiSaIiEEEEiEEbT_RT0_'
+Lines executed:0.00% of 2
+
+Function '_ZSt13__copy_move_aILb0EPiS0_ET1_T0_S2_S1_'
+Lines executed:100.00% of 3
+
+Function '_ZNSt10_Iter_baseIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEELb1EE7_S_baseES6_'
+Lines executed:0.00% of 2
+
+Function '_ZSt4swapIiEvRT_S1_'
+Lines executed:0.00% of 5
+
+Function '_ZSt11__push_heapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEEliNS0_5__ops14_Iter_less_valEEvT_T0_SA_T1_T2_'
+Lines executed:0.00% of 8
+
+Function '_ZSt14__copy_move_a2ILb0EPiS0_ET1_T0_S2_S1_'
+Lines executed:100.00% of 3
+
+Function '_ZSt12__niter_baseIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEEENSt11_Niter_baseIT_E13iterator_typeES8_'
+Lines executed:0.00% of 2
+
+Function '_ZNSt10_Iter_baseIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEELb0EE7_S_baseES6_'
+Lines executed:0.00% of 2
+
+Function '_ZNSt11__iter_swapILb1EE9iter_swapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEES8_EEvT_T0_'
+Lines executed:0.00% of 3
+
+Function '_ZSt13__adjust_heapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEEliNS0_5__ops15_Iter_less_iterEEvT_T0_SA_T1_T2_'
+Lines executed:0.00% of 16
+
+Function '_ZSt4copyIPiS0_ET0_T_S2_S1_'
+Lines executed:100.00% of 3
+
+Function '_ZNK9__gnu_cxx5__ops14_Val_less_iterclIiNS_17__normal_iteratorIPiSt6vectorIiSaIiEEEEEEbRT_T0_'
+Lines executed:100.00% of 2
+
+Function '_ZSt23__copy_move_backward_a2ILb0EN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEES6_ET1_T0_S8_S7_'
+Lines executed:0.00% of 3
+
+Function '_ZSt12__miter_baseIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEEENSt11_Miter_baseIT_E13iterator_typeES8_'
+Lines executed:0.00% of 2
+
+Function '_ZSt9iter_swapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEES6_EvT_T0_'
+Lines executed:0.00% of 3
+
+Function '_ZN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEmmEv'
+Lines executed:100.00% of 3
+
+Function '_ZSt10__pop_heapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_S9_T0_'
+Lines executed:0.00% of 5
+
+Function '_ZN9__gnu_cxxltIPiSt6vectorIiSaIiEEEEbRKNS_17__normal_iteratorIT_T0_EESA_'
+Lines executed:0.00% of 2
+
+Function '_ZSt11__make_heapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:0.00% of 11
+
+Function '_ZNSt20__uninitialized_copyILb1EE13__uninit_copyIPiS2_EET0_T_S4_S3_'
+Lines executed:100.00% of 2
+
+Function '_ZNK9__gnu_cxx13new_allocatorIiE8max_sizeEv'
+Lines executed:100.00% of 2
+
+Function '_ZNSt20__copy_move_backwardILb0ELb1ESt26random_access_iterator_tagE13__copy_move_bIiEEPT_PKS3_S6_S4_'
+Lines executed:0.00% of 5
+
+Function '_ZSt25__unguarded_linear_insertIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops14_Val_less_iterEEvT_T0_'
+Lines executed:70.00% of 10
+
+Function '_ZSt13copy_backwardIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEES6_ET0_T_S8_S7_'
+Lines executed:0.00% of 3
+
+Function '_ZNK9__gnu_cxx5__ops15_Iter_less_iterclINS_17__normal_iteratorIPiSt6vectorIiSaIiEEEES8_EEbT_T0_'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEppEv'
+Lines executed:100.00% of 3
+
+Function '_ZN9__gnu_cxxeqIPiSt6vectorIiSaIiEEEEbRKNS_17__normal_iteratorIT_T0_EESA_'
+Lines executed:100.00% of 2
+
+Function '_ZSt21__unguarded_partitionIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEET_S9_S9_S9_T0_'
+Lines executed:0.00% of 11
+
+Function '_ZSt22__move_median_to_firstIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_S9_S9_T0_'
+Lines executed:0.00% of 13
+
+Function '_ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEmiEl'
+Lines executed:0.00% of 2
+
+Function '_ZSt11__sort_heapIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:0.00% of 5
+
+Function '_ZSt13__heap_selectIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_S9_T0_'
+Lines executed:0.00% of 6
+
+Function '_ZSt18uninitialized_copyIPiS0_ET0_T_S2_S1_'
+Lines executed:100.00% of 3
+
+Function '_ZN9__gnu_cxx13new_allocatorIiE8allocateEmPKv'
+Lines executed:75.00% of 4
+
+Function '_ZNKSt12_Vector_baseIiSaIiEE19_M_get_Tp_allocatorEv'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx14__alloc_traitsISaIiEE8max_sizeERKS1_'
+Lines executed:100.00% of 2
+
+Function '_ZSt22__copy_move_backward_aILb0EPiS0_ET1_T0_S2_S1_'
+Lines executed:0.00% of 3
+
+Function '_ZSt12__niter_baseIPiENSt11_Niter_baseIT_E13iterator_typeES2_'
+No executable lines
+
+Function '_ZNSt10_Iter_baseIPiLb0EE7_S_baseES0_'
+No executable lines
+
+Function '_ZN9__gnu_cxx13new_allocatorIiE10deallocateEPim'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx13new_allocatorIiEC2Ev'
+Lines executed:100.00% of 1
+
+Function '_ZSt26__unguarded_insertion_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:0.00% of 5
+
+Function '_ZSt16__insertion_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:66.67% of 9
+
+Function '_ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEplEl'
+Lines executed:100.00% of 2
+
+Function '_ZSt27__unguarded_partition_pivotIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEET_S9_S9_T0_'
+Lines executed:0.00% of 4
+
+Function '_ZSt14__partial_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_S9_T0_'
+Lines executed:0.00% of 4
+
+Function '_ZN9__gnu_cxx13new_allocatorIiE7destroyEPi'
+Lines executed:0.00% of 1
+
+Function '_ZSt22__uninitialized_copy_aIPiS0_iET0_T_S2_S1_RSaIT1_E'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx14__alloc_traitsISaIiEE8allocateERS1_m'
+Lines executed:100.00% of 2
+
+Function '_ZSt3maxImERKT_S2_S2_'
+Lines executed:100.00% of 4
+
+Function '_ZNKSt6vectorIiSaIiEE4sizeEv'
+Lines executed:100.00% of 2
+
+Function '_ZNKSt6vectorIiSaIiEE8max_sizeEv'
+Lines executed:100.00% of 2
+
+Function '_ZSt23__copy_move_backward_a2ILb0EPiS0_ET1_T0_S2_S1_'
+No executable lines
+
+Function '_ZSt12__miter_baseIPiENSt11_Miter_baseIT_E13iterator_typeES2_'
+No executable lines
+
+Function '_ZNSt12_Destroy_auxILb1EE9__destroyIPiEEvT_S3_'
+Lines executed:100.00% of 1
+
+Function '_ZN9__gnu_cxx14__alloc_traitsISaIiEE10deallocateERS1_Pim'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx13new_allocatorIiED2Ev'
+Lines executed:100.00% of 1
+
+Function '_ZNSaIiEC2Ev'
+Lines executed:100.00% of 1
+
+Function '_ZSt22__final_insertion_sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:66.67% of 6
+
+Function '_ZSt16__introsort_loopIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEElNS0_5__ops15_Iter_less_iterEEvT_S9_T0_T1_'
+Lines executed:22.22% of 9
+
+Function '_ZN9__gnu_cxxneIPiSt6vectorIiSaIiEEEEbRKNS_17__normal_iteratorIT_T0_EESA_'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx14__alloc_traitsISaIiEE7destroyERS1_Pi'
+Lines executed:0.00% of 2
+
+Function '_ZSt34__uninitialized_move_if_noexcept_aIPiS0_SaIiEET0_T_S3_S2_RT1_'
+Lines executed:100.00% of 2
+
+Function '_ZNSt12_Vector_baseIiSaIiEE11_M_allocateEm'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxxmiIPiSt6vectorIiSaIiEEEENS_17__normal_iteratorIT_T0_E15difference_typeERKS8_SB_'
+Lines executed:100.00% of 2
+
+Function '_ZNKSt6vectorIiSaIiEE12_M_check_lenEmPKc'
+Lines executed:80.00% of 5
+
+Function '_ZSt13copy_backwardIPiS0_ET0_T_S2_S1_'
+No executable lines
+
+Function '_ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEE4baseEv'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx13new_allocatorIiE9constructEPiRKi'
+Lines executed:100.00% of 2
+
+Function '_ZSt8_DestroyIPiEvT_S1_'
+Lines executed:100.00% of 3
+
+Function '_ZNSt12_Vector_baseIiSaIiEE13_M_deallocateEPim'
+Lines executed:100.00% of 4
+
+Function '_ZNSaIiED2Ev'
+Lines executed:100.00% of 1
+
+Function '_ZNSt12_Vector_baseIiSaIiEE12_Vector_implC2Ev'
+Lines executed:100.00% of 3
+
+Function '_ZNK9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEdeEv'
+Lines executed:100.00% of 2
+
+Function '_ZSt6__sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEENS0_5__ops15_Iter_less_iterEEvT_S9_T0_'
+Lines executed:100.00% of 6
+
+Function '_ZN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEC2ERKS1_'
+Lines executed:100.00% of 2
+
+Function '_ZNSt6vectorIiSaIiEE13_M_insert_auxEN9__gnu_cxx17__normal_iteratorIPiS1_EERKi'
+Lines executed:65.71% of 35
+
+Function '_ZN9__gnu_cxx14__alloc_traitsISaIiEE9constructIiEEvRS1_PiRKT_'
+Lines executed:100.00% of 2
+
+Function '_ZSt8_DestroyIPiiEvT_S1_RSaIT0_E'
+Lines executed:100.00% of 3
+
+Function '_ZNSt12_Vector_baseIiSaIiEE19_M_get_Tp_allocatorEv'
+Lines executed:100.00% of 2
+
+Function '_ZNSt12_Vector_baseIiSaIiEED2Ev'
+Lines executed:100.00% of 3
+
+Function '_ZNSt12_Vector_baseIiSaIiEEC2Ev'
+Lines executed:100.00% of 2
+
+Function '_ZNSt12_Vector_baseIiSaIiEE12_Vector_implD2Ev'
+Lines executed:100.00% of 1
+
+Function '_ZNSt6vectorIiSaIiEE5frontEv'
+Lines executed:100.00% of 2
+
+Function '_ZSt4sortIN9__gnu_cxx17__normal_iteratorIPiSt6vectorIiSaIiEEEEEvT_S7_'
+Lines executed:100.00% of 3
+
+Function '_ZNSt6vectorIiSaIiEE3endEv'
+Lines executed:100.00% of 2
+
+Function '_ZNSt6vectorIiSaIiEE5beginEv'
+Lines executed:100.00% of 2
+
+Function '_ZNSt6vectorIiSaIiEE9push_backERKi'
+Lines executed:100.00% of 6
+
+Function '_ZNSt6vectorIiSaIiEED2Ev'
+Lines executed:100.00% of 3
+
+Function '_ZNSt6vectorIiSaIiEEC2Ev'
+Lines executed:100.00% of 2
+
+Function '_ZN5Rando13nearestToZeroEii'
+Lines executed:80.00% of 10
+
+Function '_ZN5Rando7isPrimeEi'
+Lines executed:100.00% of 7
+
+Function '_ZN5Rando13isDivisibleByEii'
+Lines executed:100.00% of 6
+
+Function '_ZN5Rando11shouldWorryEbbb'
+Lines executed:50.00% of 6
+
+Function '_ZnwmPv'
+Lines executed:100.00% of 2
+
+Function '_ZSt4__lgl'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx5__ops15__val_comp_iterENS0_15_Iter_less_iterE'
+Lines executed:100.00% of 2
+
+Function '_ZN9__gnu_cxx5__ops15__iter_comp_valENS0_15_Iter_less_iterE'
+Lines executed:0.00% of 2
+
+Function '_ZN9__gnu_cxx5__ops16__iter_less_iterEv'
+Lines executed:100.00% of 2
+
+File '/usr/include/c++/5/bits/stl_algobase.h'
+Lines executed:54.55% of 44
+Creating 'stl_algobase.h.gcov'
+
+File '/usr/include/c++/5/bits/predefined_ops.h'
+Lines executed:66.67% of 12
+Creating 'predefined_ops.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_iterator_base_types.h'
+Lines executed:50.00% of 4
+Creating 'stl_iterator_base_types.h.gcov'
+
+File '/usr/include/c++/5/bits/move.h'
+Lines executed:0.00% of 5
+Creating 'move.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_heap.h'
+Lines executed:0.00% of 45
+Creating 'stl_heap.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_iterator.h'
+Lines executed:83.33% of 24
+Creating 'stl_iterator.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_uninitialized.h'
+Lines executed:100.00% of 9
+Creating 'stl_uninitialized.h.gcov'
+
+File '/usr/include/c++/5/ext/new_allocator.h'
+Lines executed:84.62% of 13
+Creating 'new_allocator.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_algo.h'
+Lines executed:32.56% of 86
+Creating 'stl_algo.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_vector.h'
+Lines executed:97.78% of 45
+Creating 'stl_vector.h.gcov'
+
+File '/usr/include/c++/5/ext/alloc_traits.h'
+Lines executed:80.00% of 10
+Creating 'alloc_traits.h.gcov'
+
+File '/usr/include/c++/5/bits/stl_construct.h'
+Lines executed:100.00% of 7
+Creating 'stl_construct.h.gcov'
+
+File '/usr/include/c++/5/bits/allocator.h'
+Lines executed:100.00% of 2
+Creating 'allocator.h.gcov'
+
+File '/usr/include/c++/5/bits/vector.tcc'
+Lines executed:65.71% of 35
+Creating 'vector.tcc.gcov'
+
+File 'rando.cpp'
+Lines executed:82.76% of 29
+Creating 'rando.cpp.gcov'
+
+File '/usr/include/c++/5/new'
+Lines executed:100.00% of 2
+Creating 'new.gcov'
+

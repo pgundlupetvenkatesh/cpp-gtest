@@ -29,17 +29,45 @@ TEST(RandoTest, allChildrenSmile)
 	ASSERT_TRUE( rando.shouldWorry(true,true,true) );
 }
 
+TEST(RandoTest, oneChildrenSmile)
+{
+	Rando rando;
+	ASSERT_TRUE( rando.shouldWorry(true,false,false) );
+}
+
+TEST(RandoTest, twoChildrenSmile)
+{
+	Rando rando;
+	ASSERT_FALSE( rando.shouldWorry(true,false,true) );
+}
+
 TEST(RandoTest, divisibleByEvenly)
 {
 	Rando rando;
 	ASSERT_TRUE(rando.isDivisibleBy(4, 2));
 }
 
+/*
 TEST(RandoTest, divisibleByZero)
 {
 	Rando rando;
 	ASSERT_TRUE(rando.isDivisibleBy(0, 2));
 }
+*/
+
+TEST(RandoTest, divisibleByZero)
+{
+	Rando rando;
+	bool caught = false;
+	try {
+		rando.isDivisibleBy(0, 2);
+	}
+	catch(int err) {
+		caught = true;
+	}
+	ASSERT_TRUE(caught);
+}
+
 
 TEST(RandoTest, divisibleByUneven)
 {
@@ -61,10 +89,25 @@ TEST(RandoTest, divisibleByNegSecond)
 	ASSERT_TRUE(rando.isDivisibleBy(12, -3));
 }
 
+/*
 TEST(RandoTest, divisibleBySecondZero)
 {
 	Rando rando;
 	ASSERT_FALSE(rando.isDivisibleBy(0, 0));
+}
+*/
+
+TEST(RandoTest, divisibleBySecondZero1)
+{
+	Rando rando;
+	bool caught = false;
+	try {
+		rando.isDivisibleBy(0, 0);
+	}
+	catch(int err) {
+		caught = true;
+	}
+	ASSERT_TRUE(caught);
 }
 
 TEST(RandoTest, isPrimeEven)
@@ -96,5 +139,17 @@ TEST(RandoTest, isPrime0_1)
 TEST(RandoTest, nearToZero)
 {
 	Rando rando;
-	ASSERT_EQ(4, rando.nearestToZero(2, 4));
+	ASSERT_EQ(2, rando.nearestToZero(2, 4));
+}
+
+TEST(RandoTest, nearToZeroSameNumbers)
+{
+	Rando rando;
+	ASSERT_EQ(1, rando.nearestToZero(10, 10));
+}
+
+TEST(RandoTest, nearToZeroEitherNumbersZero)
+{
+	Rando rando;
+	ASSERT_EQ(1, rando.nearestToZero(10, 10));
 }
